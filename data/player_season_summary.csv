@@ -464,7 +464,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2023,00-0037741,Jahan Dotson,WR,WAS,17,124.8,7.34,83.0,49.0,0.0
 2023,00-0037742,Treylon Burks,WR,TEN,9,39.9,4.43,30.0,16.0,5.0
 2023,00-0037744,Trey McBride,TE,ARI,17,181.5,10.68,106.0,81.0,0.0
-2023,00-0037745,Velus Jones Jr.,WR,CHI,13,11.1,0.85,7.0,4.0,8.0
+2023,00-0037745,Velus Jones Jr.,RB,CHI,13,11.1,0.85,7.0,4.0,8.0
 2023,00-0037746,Brian Robinson,RB,WAS,15,202.1,13.47,43.0,36.0,178.0
 2023,00-0037801,KaVontae Turpin,WR,DAL,16,59.7,3.73,18.0,12.0,11.0
 2023,00-0037805,Jeremy Ruckert,TE,NYJ,10,31.1,3.11,22.0,16.0,0.0
@@ -529,6 +529,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2023,00-0038608,Kayshon Boutte,WR,NE,3,3.9,1.3,7.0,2.0,0.0
 2023,00-0038611,Chris Rodriguez Jr.,RB,WAS,9,39.9,4.43,2.0,2.0,51.0
 2023,00-0038612,A.T. Perry,WR,NO,8,60.6,7.57,18.0,12.0,0.0
+2023,00-0038614,Scott Matlock,RB,LAC,9,0.0,0.0,0.0,0.0,0.0
 2023,00-0038618,Xavier Hutchinson,WR,HOU,12,21.9,1.83,19.0,8.0,5.0
 2023,00-0038619,Andrei Iosivas,WR,CIN,11,50.6,4.6,25.0,15.0,0.0
 2023,00-0038621,DeMario Douglas,WR,NE,14,109.2,7.8,79.0,49.0,8.0
@@ -977,8 +978,8 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2024,00-0037741,Jahan Dotson,WR,PHI,14,41.9,2.99,33.0,19.0,1.0
 2024,00-0037742,Treylon Burks,WR,TEN,5,7.5,1.5,8.0,4.0,2.0
 2024,00-0037744,Trey McBride,TE,ARI,16,243.8,15.24,147.0,111.0,1.0
-2024,00-0037745,Velus Jones Jr.,WR,CAR,1,0.0,0.0,0.0,0.0,1.0
-2024,00-0037745,Velus Jones Jr.,WR,CHI,1,2.9,2.9,1.0,1.0,2.0
+2024,00-0037745,Velus Jones Jr.,RB,CAR,1,0.0,0.0,0.0,0.0,1.0
+2024,00-0037745,Velus Jones Jr.,RB,CHI,1,2.9,2.9,1.0,1.0,2.0
 2024,00-0037746,Brian Robinson,RB,WAS,14,163.8,11.7,25.0,20.0,187.0
 2024,00-0037801,KaVontae Turpin,WR,DAL,17,94.2,5.54,52.0,31.0,16.0
 2024,00-0037805,Jeremy Ruckert,TE,NYJ,14,28.5,2.04,28.0,18.0,0.0
@@ -1043,6 +1044,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2024,00-0038606,Parker Washington,WR,JAX,14,91.0,6.5,51.0,32.0,0.0
 2024,00-0038608,Kayshon Boutte,WR,NE,15,121.9,8.13,68.0,43.0,0.0
 2024,00-0038611,Chris Rodriguez Jr.,RB,WAS,7,31.5,4.5,1.0,1.0,35.0
+2024,00-0038614,Scott Matlock,RB,LAC,12,6.8,0.57,5.0,4.0,0.0
 2024,00-0038618,Xavier Hutchinson,WR,HOU,14,23.7,1.69,26.0,12.0,0.0
 2024,00-0038619,Andrei Iosivas,WR,CIN,17,119.9,7.05,61.0,36.0,0.0
 2024,00-0038621,DeMario Douglas,WR,NE,16,147.7,9.23,87.0,66.0,3.0
@@ -1120,7 +1122,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2024,00-0039363,Isaac Guerendo,RB,SF,16,96.2,6.01,16.0,15.0,84.0
 2024,00-0039364,Sione Vaki,RB,DET,9,8.1,0.9,3.0,3.0,6.0
 2024,00-0039365,Jacob Cowing,WR,SF,15,12.7,0.85,6.0,4.0,1.0
-2024,00-0039373,Audric Estimé,RB,DEN,13,50.7,3.9,5.0,5.0,76.0
+2024,00-0039373,Audric Estime,RB,DEN,13,50.7,3.9,5.0,5.0,76.0
 2024,00-0039376,Spencer Rattler,QB,NO,7,73.28,10.47,0.0,0.0,18.0
 2024,00-0039379,Jamari Thrash,WR,CLE,6,5.2,0.87,7.0,3.0,0.0
 2024,00-0039384,Tyrone Tracy Jr.,RB,NYG,17,186.3,10.96,53.0,38.0,192.0
@@ -1529,8 +1531,8 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2025,00-0037741,Jahan Dotson,WR,PHI,15,50.2,3.35,36.0,18.0,0.0
 2025,00-0037742,Treylon Burks,WR,WAS,8,29.0,3.63,22.0,10.0,0.0
 2025,00-0037744,Trey McBride,TE,ARI,17,315.9,18.58,169.0,126.0,0.0
-2025,00-0037745,Velus Jones Jr.,WR,NO,4,0.0,0.0,0.0,0.0,0.0
-2025,00-0037745,Velus Jones Jr.,WR,SEA,1,3.2,3.2,0.0,0.0,4.0
+2025,00-0037745,Velus Jones Jr.,RB,NO,4,0.0,0.0,0.0,0.0,0.0
+2025,00-0037745,Velus Jones Jr.,RB,SEA,1,3.2,3.2,0.0,0.0,4.0
 2025,00-0037746,Brian Robinson,RB,SF,17,62.5,3.68,12.0,8.0,92.0
 2025,00-0037755,Jelani Woods,TE,NYJ,2,1.4,0.7,3.0,1.0,0.0
 2025,00-0037801,KaVontae Turpin,WR,DAL,15,86.5,5.77,38.0,26.0,17.0
@@ -1594,6 +1596,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2025,00-0038606,Parker Washington,WR,JAX,16,172.7,10.79,95.0,58.0,7.0
 2025,00-0038608,Kayshon Boutte,WR,NE,14,124.1,8.86,46.0,33.0,0.0
 2025,00-0038611,Chris Rodriguez Jr.,RB,WAS,12,92.0,7.67,4.0,3.0,112.0
+2025,00-0038614,Scott Matlock,RB,LAC,4,11.2,2.8,4.0,4.0,0.0
 2025,00-0038618,Xavier Hutchinson,WR,HOU,16,98.0,6.13,57.0,35.0,3.0
 2025,00-0038619,Andrei Iosivas,WR,CIN,15,89.9,5.99,58.0,33.0,3.0
 2025,00-0038621,DeMario Douglas,WR,NE,16,95.8,5.99,46.0,31.0,7.0
@@ -1611,7 +1614,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2025,00-0038728,Jared Wayne,WR,HOU,1,4.0,4.0,2.0,2.0,0.0
 2025,00-0038735,Princeton Fant,TE,DAL,1,0.0,0.0,0.0,0.0,0.0
 2025,00-0038738,Hunter Luepke,RB,DAL,14,37.0,2.64,15.0,13.0,16.0
-2025,00-0038740,Jalen Moreno-Cropper,WR,DAL,2,0.0,0.0,0.0,0.0,0.0
+2025,00-0038740,Jalen Cropper,WR,DAL,2,0.0,0.0,0.0,0.0,0.0
 2025,00-0038752,Jake Bobo,WR,SEA,5,4.0,0.8,2.0,2.0,0.0
 2025,00-0038783,Nate Adkins,TE,DEN,6,16.8,2.8,11.0,6.0,0.0
 2025,00-0038794,Jaleel McLaughlin,RB,DEN,8,31.4,3.92,6.0,4.0,37.0
@@ -1664,7 +1667,7 @@ season,player_id,player_name,position,team,games,total_ppr,ppr_per_game,targets,
 2025,00-0039361,Bucky Irving,RB,TB,10,140.5,14.05,35.0,30.0,173.0
 2025,00-0039363,Isaac Guerendo,RB,SF,7,0.0,0.0,0.0,0.0,0.0
 2025,00-0039364,Sione Vaki,RB,DET,8,0.4,0.05,0.0,0.0,1.0
-2025,00-0039373,Audric Estimé,RB,NO,5,48.1,9.62,13.0,12.0,46.0
+2025,00-0039373,Audric Estime,RB,NO,5,48.1,9.62,13.0,12.0,46.0
 2025,00-0039376,Spencer Rattler,QB,NO,9,103.14,11.46,2.0,1.0,31.0
 2025,00-0039379,Jamari Thrash,WR,CLE,8,20.7,2.59,15.0,10.0,0.0
 2025,00-0039384,Tyrone Tracy Jr.,RB,NYG,15,162.8,10.85,48.0,36.0,176.0
